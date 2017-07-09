@@ -11,7 +11,7 @@ In this [Houston Data Science][1] meetup we will introduce our members to data s
 * Have a huge list of resources to help you continue your data science journey
 
 ## Agenda
-* Create a Github Account
+* Create a Github Account #test
 * Install Git locally
 * Fork and clone this respository
 * Install Python 3 with Anaconda
